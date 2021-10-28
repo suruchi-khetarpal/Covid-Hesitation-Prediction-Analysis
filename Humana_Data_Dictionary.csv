@@ -1,0 +1,368 @@
+﻿Features,Description
+id,Person Identifier - unique for a member
+auth_3mth_post_acute_dia,unique authorization/admit count for post acute admits related to diabetes in the past three months {Based on Major Clinical Condition}
+rx_gpi2_72_pmpm_cost_6to9m_b4,cost per month of prescriptions related to ANTICONVULSANTS drugs in the past sixth to ninth month prior to the score date {Based on Generic Product Identifier-2 grouping}
+atlas_pct_laccess_child15,"Children, low access to store"
+atlas_recfacpth14,"Recreation & fitness facilities/1,000 pop"
+atlas_pct_fmrkt_frveg16,Farmers’ markets that report selling fruit & vegetables
+atlas_pct_free_lunch14,Students eligible for free lunch
+bh_ip_snf_net_paid_pmpm_cost_9to12m_b4,net paid cost per month for behavioral health claims related to skilled nursing inpatient facilities in the past ninth to twelfth month prior to the score date
+auth_3mth_acute_ckd,unique authorization/admit count for acute admits related to chronic kidney disease in the past three months {Based on Major Clinical Condition}
+bh_ncal_pmpm_ct,count per month of behavioral health claims related to neuro cognition disorder: alzheimers in the past one year
+src_div_id,The division ID assigned by the legacy system {each platform has a different system}
+total_bh_copay_pmpm_cost_t_9-6-3m_b4,trend of copay cost per month for behavioral health claims in the past third to sixth month versus sixth to ninth month prior to the score date in the past third to sixth month versus sixth to ninth month prior to the score date
+bh_ip_snf_net_paid_pmpm_cost_3to6m_b4,net paid cost per month for behavioral health claims related to skilled nursing inpatient facilities in the past third to sixth month prior to the score date
+cons_chmi,Census Median Household Income
+mcc_ano_pmpm_ct_t_9-6-3m_b4,trend of claims per month related to congenital anomalies in the past third to sixth month versus sixth to ninth month prior to the score date {based on Major Clinical Condition}
+auth_3mth_post_acute_trm,"unique authorization/admit count for post acute admits related to head/neck/spine trauma, multiple fractures, and paralysis in the past three months {Based on Major Clinical Condition}"
+rx_maint_pmpm_cost_t_12-9-6m_b4,trend of cost per month of prescriptions related to maintenance drugs in the past sixth to ninth month versus ninth to twelfth month prior to the score date
+auth_3mth_post_acute_rsk,unique authorization/admit count for post acute admits related to risk behaviors in the past three months {Based on Major Clinical Condition}
+cons_ltmedicr,Late to Medicare Index
+rx_gpi4_6110_pmpm_ct,count per month of prescriptions related to ADHD/ANTI-NARCOLEPSY/ANTI-OBESITY/ANOREXIANTS : AMPHETAMINES drugs in the past one year {Based on GPI4 grouping}
+atlas_pc_snapben15,SNAP benefits per capita
+credit_bal_nonmtgcredit_60dpd,Balance Non-Mortgage Loan Accts 60+ Days Past Due
+rx_bh_mbr_resp_pmpm_cost_9to12m_b4,member reponsible cost per month of prescriptions related to behavioral health drugs in the past ninth to twelfth month prior to the score date
+rx_nonbh_pmpm_cost_t_9-6-3m_b4,trend of cost per month of prescriptions related to non behavioral health drugs in the past third to sixth month versus sixth to ninth month prior to the score date
+atlas_pct_laccess_nhna15,"American Indian or Alaska Native, low access to store"
+auth_3mth_acute_vco,unique authorization/admit count for acute admits related to v-codes in the past three months {Based on Major Clinical Condition}
+credit_hh_nonmtgcredit_60dpd,% HH Non-Mortgage Loan Accts 60+ Days Past Due
+rx_bh_pmpm_ct_0to3m_b4,count per month of prescriptions related to behavioral health drugs in the past three months prior to score date
+auth_3mth_dc_ltac,unique authorization/admit count for discharge category related to ltac in the past three months
+cons_lwcm10,The probability of the individual not exercising at all
+auth_3mth_post_acute_inj,unique authorization/admit count for post acute admits related to injury and poisoning in the past three months {Based on Major Clinical Condition}
+atlas_fsrpth14,"Full-service restaurants/1,000 pop"
+auth_3mth_dc_home,unique authorization/admit count for discharge category related to home in the past three months
+atlas_wicspth12,"WIC-authorized stores/1,000 pop"
+rx_gpi2_17_pmpm_cost_t_12-9-6m_b4,trend of cost per month of prescriptions related to VACCINES drugs in the past sixth to ninth month versus ninth to twelfth month prior to the score date {Based on GPI2 grouping}
+cons_hxmioc,"Predicts the likelihood of an individual to self-monitor an illness or health condition. They are likely to manage medication, look up health or nutritional information, post a question online or share personal health history, use an online application th"
+rx_generic_pmpm_cost_t_6-3-0m_b4,trend of cost per month of prescriptions related to generic drugs in the past three months versus third to sixth month prior to the score date
+cmsd2_sns_digest_abdomen_pmpm_ct,"claims per month related to symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified : symptoms and signs involving the digestive system and abdomen in the past one year {based on CMS diagnosis code level-2}"
+atlas_ghveg_farms12,Greenhouse vegetable and fresh herb farms
+credit_hh_bankcardcredit_60dpd,% HH Bank Card Accts 60+ Days Past Due
+total_outpatient_allowed_pmpm_cost_6to9m_b4,allowed cost per month for overall claims related to outpatient facilities in the past sixth to ninth month prior to the score date
+cons_cwht,Percent White Collar Employed
+atlas_netmigrationrate1016,Net Migration 2010-2016
+atlas_pct_laccess_snap15,"SNAP households, low access to store"
+bh_ncdm_ind,binary value indicating the presence of behavioral health condition related to nc dementia in the past one year
+rx_nonmaint_mbr_resp_pmpm_cost_9to12m_b4,member reponsible cost per month of prescriptions related to non maintenance drugs in the past ninth to twelfth month prior to the score date
+atlas_retirement_destination_2015_upda,Retirement destination counties
+rx_overall_mbr_resp_pmpm_cost_t_6-3-0m_b4,trend of member responsibilty cost per month for prescriptions in the past three months versus third to sixth month prior to the score date
+atlas_naturalchangerate1016,Natural population change 2010-2016
+ccsp_236_pct,percentage of claims related to home health services procedure in the past one year {based on CCS codes}
+bh_ip_snf_mbr_resp_pmpm_cost_6to9m_b4,member responsibility cost per month for behavioral health claims related to skilled nursing inpatient facilities in the past sixth to ninth month prior to the score date
+rx_overall_dist_gpi6_pmpm_ct_t_6-3-0m_b4,trend of number of distinct drugs per month at a GPI6 level in the past three months versus third to sixth month prior to the score date
+auth_3mth_post_acute_ben,unique authorization/admit count for post acute admits related to neoplasms (benign) in the past three months {Based on Major Clinical Condition}
+atlas_pct_laccess_hisp15,"Hispanic ethnicity, low access to store"
+auth_3mth_dc_no_ref,unique authorization/admit count for discharge category related to no_ref in the past three months
+rx_overall_mbr_resp_pmpm_cost,member responsibilty cost per month for prescriptions in the past one year
+rx_overall_gpi_pmpm_ct_0to3m_b4,number of prescriptions per month in the past three months prior to score date
+auth_3mth_dc_snf,unique authorization/admit count for discharge category related to snf in the past three months
+rx_phar_cat_humana_pmpm_ct_t_9-6-3m_b4,trend of count per month of prescriptions purchased at humana pharmacy in the past third to sixth month versus sixth to ninth month prior to the score date
+atlas_pct_laccess_hhnv15,"Households, no car & low access to store"
+auth_3mth_acute_ccs_048,"unique authorization/admit count for acute admits related to insertion, revision, replacement, removal of cardiac pacemaker or cardioverter/defibrillator in the past three months {Based on CCS}"
+bh_ip_snf_net_paid_pmpm_cost_0to3m_b4,net paid cost per month for behavioral health claims related to skilled nursing inpatient facilities in the past three months prior to score date
+auth_3mth_acute_end,unique authorization/admit count for acute admits related to endocrine in the past three months {Based on Major Clinical Condition}
+auth_3mth_psychic,unique authorization/admit count for admit category related to psychic in the past three months
+atlas_hiamenity,High natural amentities
+auth_3mth_bh_acute,unique authorization/admit count for admit category related to bh_acute in the past three months
+credit_bal_consumerfinance,Balance Consumer Finance Accts
+auth_3mth_acute_chf,unique authorization/admit count for acute admits related to congestive heart failure in the past three months {Based on Major Clinical Condition}
+rx_overall_gpi_pmpm_ct_t_6-3-0m_b4,trend of the number of prescriptions per month in the past three months versus third to sixth month prior to the score date
+rwjf_uninsured_pct,Clinical Care - Percentage of population under age 65 without health insurance
+mcc_chf_pmpm_ct_t_9-6-3m_b4,trend of claims per month related to congestive heart failure in the past third to sixth month versus sixth to ninth month prior to the score date {based on Major Clinical Condition}
+rx_mail_mbr_resp_pmpm_cost_0to3m_b4,member reponsible cost per month of prescriptions related to mail drugs in the past three months prior to score date
+bh_urgent_care_copay_pmpm_cost_t_12-9-6m_b4,trend of copay cost per month for behavioral health claims related to urgent care in the past sixth to ninth month versus ninth to twelfth month prior to the score date in the past sixth to ninth month versus ninth to twelfth month prior to the score date
+auth_3mth_hospice,unique authorization/admit count for admit category related to hospice in the past three months
+auth_3mth_acute_bld,unique authorization/admit count for acute admits related to diseases of blood and blood-forming organs in the past three months {Based on Major Clinical Condition}
+atlas_pct_wic15,WIC participants (% pop)
+ccsp_193_pct,percentage of claims related to diagnostic ultrasound of heart (echocardiogram) procedure in the past one year {based on CCS codes}
+auth_3mth_dc_hospice,unique authorization/admit count for discharge category related to hospice in the past three months
+auth_3mth_acute_ccs_030,unique authorization/admit count for acute admits related to tonsillectomy and/or adenoidectomy in the past three months {Based on CCS}
+atlas_pct_fmrkt_baked16,Farmersâ€™ markets that report selling baked/prepared food products
+rx_nonmaint_mbr_resp_pmpm_cost,member reponsible cost per month of prescriptions related to non maintenance drugs in the past one year
+auth_3mth_acute_skn,unique authorization/admit count for acute admits related to diseases of skin and subcutaneous tissue in the past three months {Based on Major Clinical Condition}
+atlas_veg_farms12,Vegetable farms
+atlas_vlfoodsec_13_15,"Household very low food security (%, three-year average), 2013-15"
+rx_gpi2_34_dist_gpi6_pmpm_ct,count per month of distinct prescriptions related to CALCIUM CHANNEL BLOCKERS drugs at the GPI6 level in the past one year {Based on Generic Product Identifier-2 grouping}
+bh_ip_snf_net_paid_pmpm_cost,net paid cost per month for behavioral health claims related to skilled nursing inpatient facilities in the past one year
+credit_hh_bankcard_severederog,% HH Bank Card Accts - Severe Derogatory Accts
+rx_hum_16_pmpm_ct,count per month of prescriptions related to CARDIOLOGY - HEART FAILURE drugs in the past one year {Based on Humana drug classification}
+est_age,"Member age {calculated using est_bday, relative to score/index date}"
+rx_maint_pmpm_cost_t_6-3-0m_b4,trend of cost per month of prescriptions related to maintenance drugs in the past three months versus third to sixth month prior to the score date
+cnt_cp_webstatement_pmpm_ct,count per month of member interactions via webstatement in the past one year
+atlas_pct_laccess_seniors15,"Seniors, low access to store"
+phy_em_px_pct,percentage of claims for physician evaluation and management related to outpatient in the past one year
+atlas_percapitainc,Per capita Income in the past 12 months 2014-2018
+rwjf_uninsured_adults_pct,Clinical Care - Percentage of adults under age 65 without health insurance
+rx_generic_mbr_resp_pmpm_cost_0to3m_b4,member reponsible cost per month of prescriptions related to generic drugs in the past three months prior to score date
+auth_3mth_acute_neo,unique authorization/admit count for acute admits related to neonates in the past three months {Based on Major Clinical Condition}
+rwjf_air_pollute_density,Physical Environment - Average daily density of fine particulate matter in micrograms per cubic meter (PM2.5)
+rx_gpi2_02_pmpm_cost,cost per month of prescriptions related to CEPHALOSPORINS drugs in the past one year {Based on Generic Product Identifier-2 grouping}
+atlas_recfac14,Recreation & fitness facilities
+cons_mobplus,Mail Order Buyer
+lab_albumin_loinc_pmpm_ct,count per month of distinct LOINC codes related to albumin in the past one year
+atlas_pct_obese_adults13,Adult Obesity Rate
+rx_maint_net_paid_pmpm_cost_t_12-9-6m_b4,trend of net paid cost per month of prescriptions related to maintenance drugs in the past sixth to ninth month versus ninth to twelfth month prior to the score date
+rev_pm_obsrm_pmpm_ct,claims per month for a revenue code related to specialty services in the past one year
+atlas_pct_sfsp15,Summer Food Service Program participants (% pop)
+total_physician_office_net_paid_pmpm_cost_9to12m_b4,net paid cost per month for overall claims related to physician office in the past ninth to twelfth month prior to the score date
+atlas_pc_dirsales12,Direct farm sales per capita
+med_ip_snf_admit_days_pmpm,admitted days per month for non-behavioral health claims related to skilled nursing inpatient facilities in the past one year
+rej_med_outpatient_visit_ct_pmpm_t_6-3-0m_b4,trend of visits per month for rejected non-behavioral health claims related to outpatient facilities among rejected claims in the past three months versus third to sixth month prior to the score date among rejected claims in the past three months versus t
+auth_3mth_post_acute_vco,unique authorization/admit count for post acute admits related to v-codes in the past three months {Based on Major Clinical Condition}
+cms_tot_partd_payment_amt,Total Part D Payment Amount
+rx_nonotc_dist_gpi6_pmpm_ct,count per month of distinct prescriptions related to non over the counter drugs at the GPI6 level in the past one year
+rx_nonmaint_pmpm_ct,count per month of prescriptions related to non maintenance drugs in the past one year
+rx_nonbh_mbr_resp_pmpm_cost_6to9m_b4,member reponsible cost per month of prescriptions related to non behavioral health drugs in the past sixth to ninth month prior to the score date
+cons_stlnindx,"Student Loan Index (0: Top Decile, 9: Bottom Decile)"
+atlas_hipov_1115,High poverty counties
+auth_3mth_post_acute_dig,unique authorization/admit count for post acute admits related to digestive in the past three months {Based on Major Clinical Condition}
+rx_nonbh_mbr_resp_pmpm_cost,member reponsible cost per month of prescriptions related to non behavioral health drugs in the past one year
+atlas_redemp_snaps16,SNAP redemptions/SNAP-authorized stores
+atlas_berry_farms12,Berry farms
+rej_med_ip_snf_coins_pmpm_cost_t_9-6-3m_b4,trend of coinsurance cost per month for rejected non-behavioral health claims related to skilled nursing inpatient facilities among rejected claims in the past third to sixth month versus sixth to ninth month prior to the score date among rejected claims 
+rwjf_inactivity_pct,Health Behaviors - Percentage of adults age 20 and over reporting no leisure-time physical activity
+rx_gpi2_72_pmpm_ct_6to9m_b4,count per month of prescriptions related to ANTICONVULSANTS drugs in the past sixth to ninth month prior to the score date {Based on Generic Product Identifier-2 grouping}
+cons_n2pmr,Census Percent Married
+med_physician_office_allowed_pmpm_cost_t_9-6-3m_b4,trend of allowed cost per month for non-behavioral health claims related to physician office in the past third to sixth month versus sixth to ninth month prior to the score date in the past third to sixth month versus sixth to ninth month prior to the sco
+auth_3mth_acute_res,unique authorization/admit count for acute admits related to respiratory in the past three months {Based on MCC}
+rev_cms_ct_pmpm_ct,claims per month for a revenue code related to ct scan in the past one year
+atlas_foodhub16,Food hubs
+total_physician_office_copay_pmpm_cost,copay cost per month for overall claims related to physician office in the past one year
+auth_3mth_acute_dig,unique authorization/admit count for acute admits related to digestive in the past three months {Based on MCC}
+auth_3mth_dc_acute_rehab,unique authorization/admit count for discharge category related to acute_rehab in the past three months
+atlas_pct_fmrkt_anmlprod16,Farmers' markets that report selling animal products
+auth_3mth_post_acute_hdz,unique authorization/admit count for post acute admits related to other heart disease in the past three months {Based on MCC}
+bh_ip_snf_mbr_resp_pmpm_cost_3to6m_b4,member responsibility cost per month for behavioral health claims related to skilled nursing inpatient facilities in the past third to sixth month prior to the score date
+auth_3mth_acute_ccs_172,unique authorization/admit count for acute admits related to skin graft in the past three months {Based on CCS}
+credit_num_agencyfirstmtg,Number Agency 1st Mortgage Accts
+total_physician_office_net_paid_pmpm_cost_t_9-6-3m_b4,trend of net paid cost per month for overall claims related to physician office in the past third to sixth month versus sixth to ninth month prior to the score date in the past third to sixth month versus sixth to ninth month prior to the score date
+auth_3mth_acute_ccs_154,unique authorization/admit count for acute admits related to arthroplasty other than hip or knee in the past three months {Based on CCS}
+atlas_type_2015_mining_no,Mining-dependent counties
+atlas_agritrsm_rct12,Agritourism receipts
+rx_days_since_last_script,days since last prescription in the past one year
+atlas_pct_laccess_pop15,"Population, low access to store"
+auth_3mth_post_acute_res,unique authorization/admit count for post acute admits related to respiratory in the past three months {Based on Major Clinical Condition}
+auth_3mth_acute_inf,unique authorization/admit count for acute admits related to infections in the past three months {Based on Major Clinical Condition}
+rx_gpi2_01_pmpm_cost_0to3m_b4,cost per month of prescriptions related to PENICILLINS drugs in the past three months prior to score date {Based on Generic Product Identifier-2 grouping}
+atlas_povertyallagespct,Poverty rate
+covid_vaccination,Covid vaccination
+rwjf_uninsured_child_pct,Clinical Care - Percentage of children under age 19 without health insurance
+rx_branded_pmpm_ct_t_6-3-0m_b4,trend of the count per month of prescriptions related to branded drugs in the past three months versus third to sixth month prior to the score date
+med_outpatient_deduct_pmpm_cost_t_9-6-3m_b4,trend of deductible cost per month for non-behavioral health claims related to outpatient facilities in the past third to sixth month versus sixth to ninth month prior to the score date in the past third to sixth month versus sixth to ninth month prior to
+credit_bal_mtgcredit_new,Balance All Mortgage Type Accts New w/in 12 months
+atlas_low_employment_2015_update,Low employment counties
+atlas_pct_diabetes_adults13,Adult Diabetes Rate
+atlas_pct_laccess_nhasian15,"Asian, low access to store"
+atlas_deep_pov_all,Deep poverty
+atlas_net_international_migration_rate,Net international migration rate 2010-2016
+atlas_deep_pov_children,Deep poverty for children
+bh_ncdm_pct,percentage of claims corresponding to behavioral health conditions related to nc dementia in the past one year
+auth_3mth_non_er,unique authorization/admit count for admit category related to non_er in the past three months
+atlas_foodinsec_child_03_11,"Child food insecurity (% households, multiple-year average), 2003-11"
+rx_branded_mbr_resp_pmpm_cost,member reponsible cost per month of prescriptions related to branded drugs in the past one year
+atlas_pc_wic_redemp12,WIC redemptions per capita
+rwjf_mv_deaths_rate,Health Behaviors - Motor vehicle crash deaths
+auth_3mth_acute_cad,unique authorization/admit count for acute admits related to coronary artery disease in the past three months {Based on Major Clinical Condition}
+atlas_pct_reduced_lunch14,Students eligible for reduced-price lunch
+cons_nwperadult,Net Worth Per Adult
+total_allowed_pmpm_cost_t_9-6-3m_b4,trend of allowed cost per month for overall claims in the past third to sixth month versus sixth to ninth month prior to the score date in the past third to sixth month versus sixth to ninth month prior to the score date
+rx_hum_28_pmpm_cost,cost per month of prescriptions related to CONTRACEPTIVES drugs in the past one year {Based on Humana drug classification}
+mabh_seg,MAPD behavioral segment - text categories
+cms_orig_reas_entitle_cd,Code indicating the original reason for entry into Medicare
+atlas_totalocchu,Total number of occupied housing units
+med_physician_office_ds_clm_6to9m_b4,days since last claim for non-behavioral health claims related to physician office in the past sixth to ninth month prior to the score date
+bh_ip_snf_mbr_resp_pmpm_cost_9to12m_b4,member responsibility cost per month for behavioral health claims related to skilled nursing inpatient facilities in the past ninth to twelfth month prior to the score date
+atlas_pct_loclfarm12,Percent of Farms with direct sales
+rx_generic_mbr_resp_pmpm_cost,member reponsible cost per month of prescriptions related to generic drugs in the past one year
+total_outpatient_mbr_resp_pmpm_cost_6to9m_b4,member responsibility cost per month for overall claims related to outpatient facilities in the past sixth to ninth month prior to the score date
+auth_3mth_post_acute_cir,unique authorization/admit count for post acute admits related to other circulatory in the past three months {Based on Major Clinical Condition}
+rx_gpi4_3400_pmpm_ct,count per month of prescriptions related to CALCIUM CHANNEL BLOCKERS : CALCIUM CHANNEL BLOCKERS drugs in the past one year {Based on Generic Product Identifier-4 grouping}
+auth_3mth_post_acute_cer,unique authorization/admit count for post acute admits related to cerebrovascular in the past three months {Based on Major Clinical Condition}
+lab_dist_loinc_pmpm_ct,count per month of distinct LOINC codes in the past one year
+atlas_pct_nslp15,National School Lunch Program participants (% pop)
+rx_generic_pmpm_ct_0to3m_b4,count per month of prescriptions related to generic drugs in the past three months prior to score date
+oontwk_mbr_resp_pmpm_cost_t_6-3-0m_b4,trend of member responsibility cost per month for out-of-network claims in the past three months versus third to sixth month prior to the score date in the past three months versus third to sixth month prior to the score date
+atlas_pct_laccess_lowi15,Low income & low access to store
+bh_ncal_ind,binary value indicating the presence of behavioral health condition related to neuro cognition disorder: alzheimers in the past one year
+auth_3mth_post_acute_mus,unique authorization/admit count for post acute admits related to musculoskeletal and connective tissue in the past three months {Based on Major Clinical Condition}
+atlas_pct_fmrkt_sfmnp16,Farmers’ markets that report accepting SFMNP
+hum_region,Member geographic information - Humana Region
+rx_nonmail_dist_gpi6_pmpm_ct_t_9-6-3m_b4,trend of the count per month of distinct prescriptions related to non mail drugs at the Generic Product Identifier-6 level in the past third to sixth month versus sixth to ninth month prior to the score date
+atlas_pct_loclsale12,Direct farm sales
+bh_ip_snf_net_paid_pmpm_cost_6to9m_b4,net paid cost per month for behavioral health claims related to skilled nursing inpatient facilities in the past sixth to ninth month prior to the score date
+rej_med_er_net_paid_pmpm_cost_t_9-6-3m_b4,trend of net paid cost per month for rejected non-behavioral health claims related to emergency room among rejected claims in the past third to sixth month versus sixth to ninth month prior to the score date among rejected claims in the past third to sixt
+credit_bal_autobank,Balance Auto Bank Loan Accts
+med_outpatient_mbr_resp_pmpm_cost_t_9-6-3m_b4,trend of member responsibility cost per month for non-behavioral health claims related to outpatient facilities in the past third to sixth month versus sixth to ninth month prior to the score date in the past third to sixth month versus sixth to ninth mon
+rx_overall_mbr_resp_pmpm_cost_0to3m_b4,member responsibilty cost per month for prescriptions in the past three months prior to score date
+rx_tier_2_pmpm_ct_3to6m_b4,count per month of prescriptions related to Tier 2 drugs in the past third to sixth month prior to the score date
+rx_nonbh_net_paid_pmpm_cost,net paid cost per month of prescriptions related to non behavioral health drugs in the past one year
+rx_maint_pmpm_ct_9to12m_b4,count per month of prescriptions related to maintenance drugs in the past ninth to twelfth month prior to the score date
+rx_nonbh_net_paid_pmpm_cost_t_6-3-0m_b4,trend of net paid cost per month of prescriptions related to non behavioral health drugs in the past three months versus third to sixth month prior to the score date
+atlas_type_2015_recreation_no,Recreation counties
+auth_3mth_post_acute_sns,unique authorization/admit count for post acute admits related to signs and symptoms in the past three months {Based on MCC}
+rx_gpi2_39_pmpm_cost_t_6-3-0m_b4,trend of cost per month of prescriptions related to ANTIHYPERLIPIDEMICS drugs in the past three months versus third to sixth month prior to the score date {Based on Generic Product Identifier-2 grouping}
+atlas_type_2015_update,County typology economic types
+cms_risk_adjustment_factor_a_amt,Risk Adjustment Factor A Amount
+total_ip_maternity_net_paid_pmpm_cost_t_12-9-6m_b4,trend of net paid cost per month for overall claims related to maternity inpatient facilities in the past sixth to ninth month versus ninth to twelfth month prior to the score date in the past sixth to ninth month versus ninth to twelfth month prior to th
+rx_generic_pmpm_cost,cost per month of prescriptions related to generic drugs in the past one year
+cmsd2_eye_retina_pmpm_ct,claims per month related to diseases of the eye and adnexa : disorders of choroid and retina in the past one year {based on CMS diagnosis code level2}
+auth_3mth_acute_can,unique authorization/admit count for acute admits related to malignant neoplasms in the past three months {Based on MCC}
+auth_3mth_post_acute,unique authorization/admit count for admit category related to post_acute in the past three months
+auth_3mth_facility,unique authorization/admit count for admit category related to facility in the past three months
+rx_days_since_last_script_0to3m_b4,days since last prescription in the past three months prior to score date
+atlas_population_loss_2015_update,Population loss counties
+rx_maint_pmpm_ct_t_6-3-0m_b4,trend of the count per month of prescriptions related to maintenance drugs in the past three months versus third to sixth month prior to the score date
+auth_3mth_post_acute_men,unique authorization/admit count for post acute admits related to mental health conditions in the past three months {Based on Major Clinical Condition}
+auth_3mth_acute_mean_los,Mean length of stay for authorization category of acute in the past three months
+credit_num_autofinance,Number Auto Finance Loan Accts
+cons_rxmaint,RX Maintenance Meds
+rx_mail_net_paid_pmpm_cost_t_6-3-0m_b4,trend of net paid cost per month of prescriptions related to mail drugs in the past three months versus third to sixth month prior to the score date
+auth_3mth_home,unique authorization/admit count for admit category related to home in the past three months
+rx_maint_mbr_resp_pmpm_cost_6to9m_b4,member reponsible cost per month of prescriptions related to maintenance drugs in the past sixth to ninth month prior to the score date
+cons_hxwearbl,Use Wearable Device to Manage Health - Index
+total_physician_office_mbr_resp_pmpm_cost_t_9-6-3m_b4,trend of member responsibility cost per month for overall claims related to physician office in the past third to sixth month versus sixth to ninth month prior to the score date
+atlas_pct_laccess_black15,"Black, low access to store"
+atlas_hh65plusalonepct,Percent of persons 65 or older living alone
+atlas_farm_to_school13,Farm to school program
+auth_3mth_acute_inj,unique authorization/admit count for acute admits related to injury and poisoning in the past three months {Based on Major Clinical Condition}
+auth_3mth_acute_ccs_153,"unique authorization/admit count for acute admits related to hip replacement, total and partial in the past three months {Based on CCS}"
+rej_days_since_last_clm,days since last claim among rejected claims in the past one year
+auth_3mth_transplant,unique authorization/admit count for admit category related to transplant in the past three months
+bh_outpatient_net_paid_pmpm_cost,net paid cost per month for behavioral health claims related to outpatient facilities in the past one year
+atlas_dirsales_farms12,Farms with direct sales
+rx_generic_pmpm_cost_6to9m_b4,cost per month of prescriptions related to generic drugs in the past sixth to ninth month prior to the score date
+rev_cms_ansth_pmpm_ct,claims per month for a revenue code related to anesthesiology in the past one year
+atlas_convspth14,"Convenience stores/1,000 pop"
+total_med_allowed_pmpm_cost_9to12m_b4,allowed cost per month for non-behavioral health claims in the past ninth to twelfth month prior to the score date
+rx_mail_mbr_resp_pmpm_cost_t_9-6-3m_b4,trend of member reponsible cost per month of prescriptions related to mail drugs in the past third to sixth month versus sixth to ninth month prior to the score date
+med_outpatient_visit_ct_pmpm_t_12-9-6m_b4,trend of visits per month for non-behavioral health claims related to outpatient facilities in the past sixth to ninth month versus ninth to twelfth month prior to the score date in the past sixth to ninth month versus ninth to twelfth month prior to the 
+rx_nonbh_pmpm_ct_t_9-6-3m_b4,trend of the count per month of prescriptions related to non behavioral health drugs in the past third to sixth month versus sixth to ninth month prior to the score date
+auth_3mth_acute,unique authorization/admit count for admit category related to acute in the past three months
+rx_nonbh_pmpm_ct_0to3m_b4,count per month of prescriptions related to non behavioral health drugs in the past three months prior to score date
+atlas_pc_ffrsales12,"Expenditures per capita, fast food"
+auth_3mth_dc_left_ama,unique authorization/admit count for discharge category related to left_ama in the past three months
+credit_bal_bankcard_severederog,Balance Bank Card Accts - Severe Derogatory Accts
+atlas_povertyunder18pct,Poverty rate for children age 0-17
+rx_tier_1_pmpm_ct_0to3m_b4,count per month of prescriptions related to Tier 1 drugs in the past three months prior to score date
+auth_3mth_acute_ccs_227,unique authorization/admit count for acute admits related to other diagnostic procedures in the past three months {Based on CCS}
+cons_estinv30_rc,Estimated Household Investable Assets Recoded
+auth_3mth_bh_acute_men,unique authorization/admit count for behavioral health acute admits related to mental health conditions in the past three months {Based on Major Clinical Condition}
+rx_gpi2_34_pmpm_ct,count per month of prescriptions related to CALCIUM CHANNEL BLOCKERS drugs in the past one year {Based on Generic Product Identifier-2 grouping}
+auth_3mth_dc_custodial,unique authorization/admit count for discharge category related to custodial in the past three months
+atlas_veg_acrespth12,"Vegetable acres harvested/1,000 pop"
+atlas_grocpth14,"Grocery stores/1,000 pop"
+total_med_net_paid_pmpm_cost_t_6-3-0m_b4,trend of net paid cost per month for non-behavioral health claims in the past three months versus third to sixth month prior to the score date in the past three months versus third to sixth month prior to the score date
+rx_gpi2_90_dist_gpi6_pmpm_ct_9to12m_b4,count per month of distinct prescriptions related to DERMATOLOGICALS drugs at the GPI6 level in the past ninth to twelfth month prior to the score date {Based on Generic Product Identifier-2 grouping}
+atlas_csa12,CSA farms
+sex_cd,Member gender
+rx_gpi2_62_pmpm_cost_t_9-6-3m_b4,trend of cost per month of prescriptions related to PSYCHOTHERAPEUTIC AND NEUROLOGICAL AGENTS - MISC. drugs in the past third to sixth month versus sixth to ninth month prior to the score date {Based on Generic Product Identifier-2 grouping}
+lang_spoken_cd,Preferred language for member
+rx_overall_gpi_pmpm_ct_t_12-9-6m_b4,trend of the number of prescriptions per month in the past sixth to ninth month versus ninth to twelfth month prior to the score date
+auth_3mth_ltac,unique authorization/admit count for admit category related to ltac in the past three months
+cons_hhcomp,Household Composition
+auth_3mth_acute_hdz,unique authorization/admit count for acute admits related to other heart disease in the past three months {Based on Major Clinical Condition}
+cons_rxadhs,RX Adherence - Supplement
+auth_3mth_acute_men,unique authorization/admit count for acute admits related to mental health conditions in the past three months {Based on Major Clinical Condition}
+atlas_pct_fmrkt_snap16,Farmers’ markets that report accepting SNAP
+met_obe_diag_pct,percentage of medical claims related to obesity in the past one year {Based on metabolic syndrome}
+cms_partd_ra_factor_amt,Medicare Part D Risk Adjustment Factor Amount
+atlas_pct_sbp15,School Breakfast Program participants (% pop)
+rwjf_resident_seg_black_inx,Social and Economic Factors - Residential segregation - black/white
+atlas_pct_cacfp15,Child & Adult Care (% pop)
+auth_3mth_rehab,unique authorization/admit count for admit category related to rehab in the past three months
+pdc_lip,proportion of days covered for  prescriptions related to hyperlipidemia in the past one year
+atlas_ffrpth14,"Fast-food restaurants/1,000 pop"
+credit_num_autobank_new,Number Auto Bank Loan Accts New w/in 12 months
+auth_3mth_acute_ccs_086,unique authorization/admit count for acute admits related to other hernia repair in the past three months {Based on CCS}
+rx_tier_2_pmpm_ct,count per month of prescriptions related to Tier 2 drugs in the past one year
+cons_n2pwh,Census Percent White
+rx_nonmaint_dist_gpi6_pmpm_ct_t_12-9-6m_b4,trend of the count per month of distinct prescriptions related to non maintenance drugs at the Generic Product Identifier-6 level in the past sixth to ninth month versus ninth to twelfth month prior to the score date
+atlas_berry_acrespth12,"Berry acres/1,000 pop"
+atlas_pct_fmrkt_credit16,Farmers’ markets that report accepting credit cards
+atlas_slhouse12,Small slaughterhouse facilities
+atlas_pc_fsrsales12,"Expenditures per capita, restaurants"
+credit_hh_1stmtgcredit,% HH 1st Mortgage Accts
+auth_3mth_snf_post_hsp,unique authorization/admit count for admit category related to snf_post_hsp in the past three months
+atlas_pct_fmrkt_wiccash16,Farmers’ markets that report accepting WIC Cash
+atlas_foodinsec_13_15,"Household food insecurity (%, three-year average), 2013-15"
+auth_3mth_acute_cer,unique authorization/admit count for acute admits related to cerebrovascular in the past three months {Based on Major Clinical Condition}
+cons_rxadhm,RX Adherence - Maintenance
+atlas_fmrktpth16,Farmers’ markets
+rx_nonotc_pmpm_cost_t_6-3-0m_b4,trend of cost per month of prescriptions related to non over the counter drugs in the past three months versus third to sixth month prior to the score date
+cci_dia_m_pmpm_ct,count per month of claims related to diabetes without chronic complications in the past one year {Based on Charlson Comorbidity Index Categories}
+auth_3mth_acute_trm,"unique authorization/admit count for acute admits related to head/neck/spine trauma, multiple fractures, and paralysis in the past three months {Based on Major Clinical Condition}"
+cons_n2phi,Census Percent Hispanic
+bh_physician_office_copay_pmpm_cost_6to9m_b4,copay cost per month for behavioral health claims related to physician office in the past sixth to ninth month prior to the score date
+rwjf_income_inequ_ratio,Social and Economic Factors - Ratio of household income at the 80th percentile to income at the 20th percentile
+rej_total_physician_office_visit_ct_pmpm_0to3m_b4,visits per month for rejected overall claims related to physician office among rejected claims in the past three months prior to score date
+auth_3mth_acute_dia,unique authorization/admit count for acute admits related to diabetes in the past three months {Based on Major Clinical Condition}
+credit_num_nonmtgcredit_60dpd,Number Non-Mortgage Loan Accts 60+ Days Past Due
+auth_3mth_snf_direct,unique authorization/admit count for admit category related to snf_direct in the past three months
+credit_bal_autofinance_new,Balance Auto Finance Loan Accts New w/in 12 months
+auth_3mth_acute_ccs_067,"unique authorization/admit count for acute admits related to other procedures, hemic and lymphatic systems in the past three months {Based on CCS}"
+auth_3mth_acute_ccs_043,unique authorization/admit count for acute admits related to heart valve procedures in the past three months {Based on CCS}
+rwjf_men_hlth_prov_ratio,Clinical Care - Ratio of population to mental health providers
+auth_3mth_dc_home_health,unique authorization/admit count for discharge category related to home_health in the past three months
+rx_gpi2_56_dist_gpi6_pmpm_ct_3to6m_b4,count per month of distinct prescriptions related to GENITOURINARY AGENTS - MISCELLANEOUS drugs at the GPI6 level in the past third to sixth month prior to the score date {Based on Generic Product Identifier-2 grouping}
+cmsd2_sns_genitourinary_pmpm_ct,"claims per month related to symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified : symptoms and signs involving the genitourinary system in the past one year {based on CMS diagnosis code level2}"
+auth_3mth_acute_cir,unique authorization/admit count for acute admits related to other circulatory in the past three months {Based on Major Clinical Condition}
+auth_3mth_acute_ner,unique authorization/admit count for acute admits related to nervous system in the past three months {Based on Major Clinical Condition}
+auth_3mth_acute_ccs_094,unique authorization/admit count for acute admits related to other or upper gi therapeutic procedures in the past three months {Based on CCS}
+med_ambulance_coins_pmpm_cost_t_9-6-3m_b4,trend of coinsurance cost per month for non-behavioral health claims related to ambulance place of treatment in the past third to sixth month versus sixth to ninth month prior to the score date in the past third to sixth month versus sixth to ninth month 
+hedis_dia_hba1c_ge9,Binary flag without applying all Diabetes HEDIS eligibility criteria indicating if evidence for HBA1C test is greater than or equal to ninein the past one year
+bh_ncal_pct,percentage of claims corresponding to behavioral health conditions related to neuro cognition disorder: alzheimers in the past one year
+atlas_pct_snap16,SNAP participants (% pop)
+ccsp_227_pct,percentage of claims related to other diagnostic procedures procedure in the past one year {based on CCS codes}
+atlas_ghveg_sqftpth12,"Greenhouse veg and fresh herb sq feet/1,000 pop"
+rx_days_since_last_script_6to9m_b4,days since last prescription in the past sixth to ninth month prior to the score date
+atlas_orchard_acrespth12,"Orchard acres/1,000 pop"
+atlas_persistentchildpoverty_1980_2011,Persistent child poverty counties
+auth_3mth_post_acute_cad,unique authorization/admit count for post acute admits related to coronary artery disease in the past three months {Based on Major Clinical Condition}
+atlas_pct_laccess_multir15,"Multiracial, low access to store"
+cons_cgqs,Census Geo-unit Quality Score
+ccsp_065_pmpm_ct,claims per month related to bone marrow biopsy procedure in the past one year {based on CCS codes}
+auth_3mth_acute_ccs_044,unique authorization/admit count for acute admits related to coronary artery bypass graft (cabg) in the past three months {Based on CCS}
+atlas_medhhinc,Median household income
+rx_maint_net_paid_pmpm_cost_t_9-6-3m_b4,trend of net paid cost per month of prescriptions related to maintenance drugs in the past third to sixth month versus sixth to ninth month prior to the score date
+rwjf_mental_distress_pct,Health Outcomes - % Frequent mental distress
+bh_ip_snf_admit_days_pmpm_t_9-6-3m_b4,trend of admitted days per month for behavioral health claims related to skilled nursing inpatient facilities in the past third to sixth month versus sixth to ninth month prior to the score date in the past third to sixth month versus sixth to ninth month
+rx_phar_cat_cvs_pmpm_ct_t_9-6-3m_b4,trend of count per month of prescriptions purchased at cvs pharmacy in the past third to sixth month versus sixth to ninth month prior to the score date
+zip_cd,Member zip code
+auth_3mth_post_acute_ckd,unique authorization/admit count for post acute admits related to chronic kidney disease in the past three months {Based on Major Clinical Condition}
+atlas_pct_laccess_nhpi15,"Hawaiian or Pacific Islander, low access to store"
+auth_3mth_post_acute_ner,unique authorization/admit count for post acute admits related to nervous system in the past three months {Based on Major Clinical Condition}
+auth_3mth_post_er,unique authorization/admit count for admit category related to post_er in the past three months
+credit_num_consumerfinance_new,Number Consumer Finance Accts New w/in 12 months
+rx_gpi2_49_pmpm_cost_0to3m_b4,cost per month of prescriptions related to ULCER DRUGS/ANTISPASMODICS/ANTICHOLINERGICS drugs in the past three months prior to score date {Based on Generic Product Identifier-2 grouping}
+cons_chva,Census Median Home Value
+atlas_avghhsize,Average household size
+rx_overall_net_paid_pmpm_cost_6to9m_b4,net paid cost per month for prescriptions in the past sixth to ninth month prior to the score date
+atlas_ownhomepct,Percent of owner occupied housing units
+atlas_orchard_farms12,Orchard farms
+total_physician_office_visit_ct_pmpm_t_6-3-0m_b4,trend of visits per month for overall claims related to physician office in the past three months versus third to sixth month prior to the score date in the past three months versus third to sixth month prior to the score date
+atlas_pct_fmrkt_wic16,Farmers’ markets that report accepting WIC
+rx_gpi2_33_pmpm_ct_0to3m_b4,count per month of prescriptions related to BETA BLOCKERS drugs in the past three months prior to score date {Based on Generic Product Identifier-2 grouping}
+auth_3mth_post_acute_chf,unique authorization/admit count for post acute admits related to congestive heart failure in the past three months {Based on Major Clinical Condition}
+rwjf_social_associate_rate,Social and Economic Factors - Number of membership associations per 10K population
+atlas_freshveg_farms12,Farms with vegetables harvested for fresh market
+auth_3mth_acute_ccs_042,unique authorization/admit count for acute admits related to other or rx procedures on respiratory system and mediastinum in the past three months {Based on CCS}
+auth_3mth_post_acute_inf,unique authorization/admit count for post acute admits related to infections in the past three months {Based on Major Clinical Condition}
+auth_3mth_acute_sns,unique authorization/admit count for acute admits related to signs and symptoms in the past three months {Based on Major Clinical Condition}
+days_since_last_clm_0to3m_b4,days since last claim in the past three months prior to score date
+auth_3mth_dc_other,unique authorization/admit count for discharge category related to other in the past three months
+auth_3mth_bh_acute_mean_los,Mean length of stay for authorization category of behavioral health acute in the past three months
+mcc_end_pct,percentage of claims related to endocrine in the past one year {based on Major Clinical Condition}
+auth_3mth_post_acute_gus,unique authorization/admit count for post acute admits related to genito-urinary system in the past three months {Based on Major Clinical Condition}
+cons_lwcm07,The probability of the individual being less likely to use doctor/physician as a primary source for medical information
+atlas_pct_fmrkt_otherfood16,Farmers’ markets that report selling other food products
+auth_3mth_post_acute_end,unique authorization/admit count for post acute admits related to endocrine in the past three months {Based on Major Clinical Condition}
+auth_3mth_acute_mus,unique authorization/admit count for acute admits related to musculoskeletal and connective tissue in the past three months {Based on Major Clinical Condition}
+atlas_perpov_1980_0711,Persistent poverty counties
+atlas_pct_laccess_white15,"White, low access to store"
+auth_3mth_post_acute_mean_los,Mean length of stay for authorization category of post acute in the past three months
+rx_gpi2_66_pmpm_ct,count per month of prescriptions related to ANALGESICS - ANTI-INFLAMMATORY drugs in the past one year {Based on Generic Product Identifier-2 grouping}
+auth_3mth_acute_gus,unique authorization/admit count for acute admits related to genito-urinary system in the past three months {Based on Major Clinical Condition}
+rx_generic_dist_gpi6_pmpm_ct_t_9-6-3m_b4,trend of the count per month of distinct prescriptions related to generic drugs at the GPI6 level in the past third to sixth month versus sixth to ninth month prior to the score date
+atlas_low_education_2015_update,Low education counties
+race_cd,"Code indicating a member's race {0 = Unknown, 1 = White, 2 = Black, 3 = Other, 4 = Asian, 5 = Hispanic, 6 = N. American Native}"
